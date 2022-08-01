@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @BhanuSehgal22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Bhanusehgal22@gmail.com
-
-<!---
-BhanuSehgal22/BhanuSehgal22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Bhanu Sehgal
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently Pursuing a Degree Massachusetts Institute of Technology '23
+- 💞️ I’m looking to collaborate on projects and start ups with like minded tech savvy individuals.
+- 📫 How to reach me ... Bhanusehgal@sehgalenterprise.com
